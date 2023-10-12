@@ -1,3 +1,7 @@
+//Project Name:Preprocessor Project using C language
+//file type: .c
+//Executed by:Sankarsh A M
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
