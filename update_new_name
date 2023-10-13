@@ -1,4 +1,0 @@
-git branch -m main Projects
-git fetch origin
-git branch -u origin/Projects Projects
-git remote set-head origin -a
