@@ -2,18 +2,6 @@
 
 Welcome to my project portfolio! This repository contains a diverse range of projects, each showcasing my skills and experiences in different domains. Below are summaries of the projects included in this repository:
 
-## Weather Monitoring System using LPC2129 (ARM Controller)
-- **Description:** Developed a weather monitoring system using an LPC2129 ARM controller, interfacing with an RTC, LDR sensor, and potentiometer using I2C and SPI protocols.
-- **Key Achievements:** Extracted data from a temperature sensor and displayed it in the UART Hyperterminal.
-
-## CAN Car Parking Assistance
-- **Description:** Created a Car Parking Assistance system with ultrasonic sensors using CAN Protocol, controlling Buzzer and LEDs based on distance measured.
-- **Key Features:** Configured a Body Control Module with two ECUs to manage headlights, indicator lights, and dashboard display. Implemented brake light control using a switch.
-
-## Design and Development of Pest Destruction Device
-- **Description:** Designed an electrical circuit for a 5000-volt device, the Magnetron, with timer and temperature cutoff circuits using Arduino.
-- **Key Achievements:** Developed MATLAB code for penetration depth calculation, designed a 3D model cover with SolidWorks, and conducted simulations with NI Multisim and MATLAB.
-
 ## Preprocessor Project using C Language
 - **Description:** Implemented a custom header file management system, comment removal, macro handling, and code optimization in C.
 - **Key Achievements:** Enhanced code readability, efficiency, and overall development workflow through these features.
